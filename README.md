@@ -21,6 +21,7 @@ Initially, interest rates was thought to be the reason for default on loans, but
 - Interest rate showed negative correlation with credit score and bank card credit available. 
 - For most borrowers who defaulted, or are chargedoff, their credit score were below 640 and had 50,000 dollars or less as available bank card credit. 
 
-#Binder
+## Binder
+
 Click the badge to lunch the code on mybinder.org 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Akomst/-Understanding-Why-Borrowers-Default-Analysis-of-Prosper-Loan-Data/HEAD)
